@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: First_Maven_git.First_Maven_git.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 s - in First_Maven_git.First_Maven_git.AppTest
